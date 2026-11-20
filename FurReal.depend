@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1794499181 source:c:\users\user\desktop\final project\furreal\furreal_display.c
+1795136179 source:c:\users\user\desktop\final project\furreal\furreal_display.c
 	<stdio.h>
 	"furreal_display.h"
 
@@ -8,19 +8,22 @@
 
 1794486204 c:\users\user\desktop\final project\furreal\furreal_pet.h
 
-1794478088 source:c:\users\user\desktop\final project\furreal\furreal_interact.c
+1794841829 source:c:\users\user\desktop\final project\furreal\furreal_interact.c
 	"furreal_interact.h"
 
 1794486259 c:\users\user\desktop\final project\furreal\furreal_interact.h
 	"furreal_pet.h"
 
-1794479087 source:c:\users\user\desktop\final project\furreal\furreal_save.c
+1795135458 source:c:\users\user\desktop\final project\furreal\furreal_save.c
 	"furreal_save.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
 
 1794486264 c:\users\user\desktop\final project\furreal\furreal_save.h
 	"furreal_pet.h"
 
-1794486331 source:c:\users\user\desktop\final project\furreal\main.c
+1795136143 source:c:\users\user\desktop\final project\furreal\main.c
 	<stdio.h>
 	<string.h>
 	<time.h>
@@ -29,4 +32,39 @@
 	"furreal_interact.h"
 	"furreal_display.h"
 	"furreal_save.h"
+
+1795143469 source:c:\users\user\desktop\finalproject\furreal\furreal_display.c
+	<stdio.h>
+	"furreal_display.h"
+
+1794486861 c:\users\user\desktop\finalproject\furreal\furreal_display.h
+	"furreal_pet.h"
+
+1795136414 c:\users\user\desktop\finalproject\furreal\furreal_pet.h
+
+1794841829 source:c:\users\user\desktop\finalproject\furreal\furreal_interact.c
+	"furreal_interact.h"
+
+1794486259 c:\users\user\desktop\finalproject\furreal\furreal_interact.h
+	"furreal_pet.h"
+
+1795143526 source:c:\users\user\desktop\finalproject\furreal\main.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"furreal_pet.h"
+	"furreal_interact.h"
+	"furreal_display.h"
+	"furreal_save.h"
+
+1794486264 c:\users\user\desktop\finalproject\furreal\furreal_save.h
+	"furreal_pet.h"
+
+1795138628 source:c:\users\user\desktop\finalproject\furreal\furreal_save.c
+	"furreal_save.h"
+	"furreal_pet.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
 
